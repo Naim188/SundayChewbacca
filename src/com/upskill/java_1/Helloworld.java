@@ -4,7 +4,7 @@ public class Helloworld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello world, This is Naim. I live in Queens Fresh Meadows. "
+		System.out.println("Helloworld, This is Naim. I live in Queens Fresh Meadows. "
 				+ "Learning coding but when i am in class i understand everything but after going home forget everything.");
 		
 		int a = 510;

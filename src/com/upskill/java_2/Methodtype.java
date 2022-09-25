@@ -8,7 +8,7 @@ public class Methodtype {
 	 3.Return type Method */
 	
 	
-	public static int hourlyincome = 65;
+	public static int hourlyincome = 60;
 	
 	
 	public static void main(String[] args) {
@@ -35,7 +35,7 @@ public class Methodtype {
 	
 	//Return Type Method
 	public int monthlyIncomeReturn(){ 
-	int monthlyIncome = hourlyincome * 180;
+	int monthlyIncome = hourlyincome * 160;
 	return monthlyIncome;
 	
 	}
