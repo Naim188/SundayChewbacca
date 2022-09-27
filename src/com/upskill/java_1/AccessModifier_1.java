@@ -2,7 +2,6 @@ package com.upskill.java_1;
 
 public class AccessModifier_1 {
 
-	public static void main(String[] args) {
 		
 		 //Different Access Modifier in Java
 		
@@ -14,6 +13,6 @@ public class AccessModifier_1 {
 				
 		String city = "New York";		//default - classes in same package can access
 		
-	}
-
 }
+
+
