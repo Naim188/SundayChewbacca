@@ -16,7 +16,7 @@ public class variable {
 	
 	public void myMethod(String country){		//Method parameter - variables used as method parameter
 		
-		String myCounty = county; 
+		String mycountry = country; 
 	}
 
 }

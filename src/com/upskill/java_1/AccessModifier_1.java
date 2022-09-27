@@ -6,9 +6,9 @@ public class AccessModifier_1 {
 		
 		 //Different Access Modifier in Java
 		
-		public string name = "Naim";     //public - any class can access
+		public String name = "Naim";     //public - any class can access
 
-		private int age = 30;			//private - only same calss can access
+		private int age = 30;			//private - only same class can access
 		
 		protected int ssn = 12345678;	//protected - class in the same package and subclass
 				
