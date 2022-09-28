@@ -26,7 +26,7 @@ public class Assignment1_1 {
 		
 		public static void substractionvalue(){
 			int a = 30;
-			int b = 50;
+			int b = 60;
 			int substractionvalue = b-a;
 			
 			System.out.println(substractionvalue);
