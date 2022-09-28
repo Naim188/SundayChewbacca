@@ -18,15 +18,15 @@ public class Assignment1_1 {
 		
 		public static void multiplicationValue() {
 		int a = 9;
-		int b = 11;
-				int c = (a*b)+ (a+b);
+		int c = 11;
+				int b = (a*c)+ (a+c);
 		System.out.println(c);
 		
 		}
 		
 		public static void substractionvalue(){
 			int a = 30;
-			int b = 50;
+			int b = 60;
 			int substractionvalue = b-a;
 			
 			System.out.println(substractionvalue);
