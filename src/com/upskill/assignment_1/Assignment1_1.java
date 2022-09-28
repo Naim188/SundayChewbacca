@@ -18,8 +18,8 @@ public class Assignment1_1 {
 		
 		public static void multiplicationValue() {
 		int a = 9;
-		int c = 11;
-				int b = (a*c)+ (a+c);
+		int b = 11;
+				int c = (a*b)+ (a+b);
 		System.out.println(c);
 		
 		}
